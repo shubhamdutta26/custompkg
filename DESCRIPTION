@@ -1,11 +1,11 @@
 Package: custompkg
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A Package with Personal Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Shubham Dutta
+Maintainer: Shubham Dutta <shubhamdutta26@gmail.com>
+Description: A package with several functions I use day to day for my data
+    science analysis.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
