@@ -18,3 +18,5 @@ Imports:
     openxlsx,
     rlang,
     tidyplate
+URL: https://github.com/shubhamdutta26/custompkg
+BugReports: https://github.com/shubhamdutta26/custompkg/issues
